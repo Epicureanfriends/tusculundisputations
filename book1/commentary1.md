@@ -122,8 +122,6 @@ This is of people and actions that have benefited humanity hearks back to Lucret
 And the comparison of Archimedes as having done something analogous to Plato's god in Timeaus to setting in motion the stars and planets.  That also has an echo in Lucretius when Lucretius asks how the gods could have created the universe without a pattern.
 
 
-
-
 ## XXVI
 
 Cicero says poetry is evidence of divine nature, but philosophy is especially so.  Philosophy is parent of all the arts and a gift of the gods.
@@ -139,34 +137,22 @@ The soul must have been created by god, and therefore it must be eternal.  God m
 
 ## XXVIII
 
-Of this kind and nature is the intellect of man. Where, then, is this intellect seated, and of what character is it? where is your own, and what is its character? are you able to tell? If I have not faculties for knowing all that I could desire to know, will you not even allow me to make use of those which I have? The soul has not sufficient capacity to comprehend itself; yet, the soul, like the eye, though it has no distinct view of itself, sees other things: it does not see (which is of least consequence) its own shape; perhaps not, though it possibly may; but we will pass that by: but it certainly sees that it has vigour, sagacity, memory, motion, and velocity; these are all great, divine, eternal properties. What its appearance is, or where it dwells, it is not necessary even to inquire. As when we behold, first of all, the beauty and brilliant appearance of the heavens; secondly, the vast velocity of its revolutions, beyond power of our imagination to conceive; then the vicissitudes of nights and days; the four-fold division of the seasons, so well adapted to the ripening of the fruits of the earth, and the temperature of our bodies; and after that we look up to the sun, the moderator and governor of all these things; and view the moon, by the increase and decrease of its light, marking, as it were, and appointing our holy days; and see the five planets, borne on in the same circle, divided into twelve parts, preserving the same course with the greatest regularity, but with utterly dissimilar motions amongst themselves; and the nightly appearance of the heaven, adorned on all sides with stars; then, the globe of the earth, raised above the sea, and placed in the centre of the universe, inhabited and cultivated in its two opposite extremities; one of which, the place of our habitation, is situated towards the north pole, under the seven stars:—
+NOTE:  No need to read this section in full.  It's basically:  Look at the world and contemplate what you see and you must acknowledge that there is a designer of it.
 
-Where the cold northern blasts, with horrid sound,
+Just like the eye can't see itself, the soul cannot apparently see itself, but it's not necessary that it have that ability.
 
-Harden to ice the snowy cover'd ground,—
-
-the other, towards the south pole, is unknown to us; but is called by the Greeks ἀντίχθονα: the other parts are uncultivated, because they are either frozen with cold, or burnt up with heat; but where we dwell, it never fails in its season,
-
-To yield a placid sky, to bid the trees
-
-Assume the lively verdure of their leaves:
-
-The vine to bud, and, joyful in its shoots,
-
-Foretell the approaching vintage of its fruits:
-
-The ripen'd corn to sing, whilst all around
-
-Full riv'lets glide; and flowers deck the ground:—
-
-then the multitude of cattle, fit part for food, part for tilling the ground, others for carrying us, or for clothing us; and man himself, made as it were on purpose to contemplate the heavens and the Gods, and to pay adoration to them; lastly, the whole earth, and wide extending seas, given to man's use. When we view these, and numberless other things, can we doubt that they have some being who presides over them, or has made them (if, indeed, they have been made, as is the opinion of Plato, or if, as Aristotle thinks, they are eternal), or who at all events is the regulator of so immense a fabric and so great a blessing to men? Thus, though you see not the soul of man, as you see not the Deity, yet, as by the contemplation of his works you are led to acknowledge a God, so you must own the divine power of the soul, from its remembering things, from its invention, from the quickness of its motion, and from all the beauty of virtue. Where, then, is it seated, you will say?
+Thus, though you see not the soul of man, as you see not the Deity, yet, as by the contemplation of his works you are led to acknowledge a God, so you must own the divine power of the soul, from its remembering things, from its invention, from the quickness of its motion, and from all the beauty of virtue.
 
 ## XXIX
 
-In my opinion it is seated in the head, and I can bring you reasons for my adopting that opinion. At present, let the soul reside where it will, you certainly have one in you. Should you ask what its nature is? It has one peculiarly its own; but admitting it to consist of fire, or air, it does not affect the present question; only observe this, that as you are convinced there is a God, though you are ignorant where he resides, and what shape he is of; in like manner you ought to feel assured that you have a soul, though you cannot satisfy yourself of the place of its residence, nor its form. In our knowledge of the soul, unless we are grossly ignorant of natural philosophy, we cannot but be satisfied that it has nothing but what is simple, unmixed, uncompounded, and single; and if this is admitted, then it cannot be separated, nor divided, nor dispersed, nor parted, and therefore it cannot perish; for to perish implies a parting asunder, a division, a disunion of those parts which, whilst it subsisted, were held together by some band; and it was because he was influenced by these and similar reasons that Socrates neither looked out for anybody to plead for him when he was accused, nor begged any favour from his judges, but maintained a manly freedom, which was the effect not of pride, but of the true greatness of his soul: and on the last day of his life, he held a long discourse on this subject; and a few days before, when he might have been easily freed from his confinement, he refused to be so, and when he had almost actually hold of that deadly cup, he spoke with the air of a man not forced to die, but ascending into heaven.
+Cicero says the soul is seated in the head, but you need not be certain of that any more than you are certain where God lives.
+
+Cicero points out that Socrates died voluntarily, saying "a few days before, when he might have been easily freed from his confinement, he refused to be so, and when he had almost actually hold of that deadly cup, he spoke with the air of a man not forced to die, but ascending into heaven."
 
 ## XXX
 
-For so indeed he thought himself, and thus he spoke:—“That there were two ways, and that the souls of men, at their departure from the body, took different roads, for those which were polluted with vices, that are common to men, and which had given themselves up entirely to unclean desires, and had become so blinded by them as to have habituated themselves to all manner of debauchery and profligacy, or to have laid detestable schemes for the ruin of their country, took a road wide of that which led to the assembly of the Gods: but they who had preserved themselves upright and chaste, and free from the slightest contagion of the body, and had always kept themselves as far as possible at a distance from it, and whilst on earth, had proposed to themselves as a model the life of the Gods, found the return to those beings from whom they had come an easy one.” Therefore he argues, that all good and wise men should take example from the swans, who are considered sacred to Apollo, not without reason, but particularly because they seem to have received the gift of divination from him, by which, foreseeing how happy it is to die, they leave this world with singing and joy. Nor can any one doubt of this, unless it happens to us who think with care and anxiety about the soul, (as is often the case with those who look earnestly at the setting sun,) to lose the sight of it entirely: and so the mind's eye viewing itself, sometimes grows dull, and for that reason we become remiss in our contemplation. Thus our reasoning is borne about, harassed with doubts and anxieties, not knowing how to proceed, but measuring back again those dangerous tracts which it has passed, like a boat tossed about on the boundless ocean. But these reflections are of long standing, and borrowed from the Greeks. But Cato left this world in such a manner, as if he were delighted that he had found an opportunity of dying; for that God who presides in us, forbids our departure hence without his leave. But when God himself has given us a just cause, as formerly he did to Socrates, and lately to Cato, and often to many others,—in such a case, certainly every man of sense would gladly exchange this darkness, for that light: not that he would forcibly break from the chains that held him, for that would be against the law; but like a man released from prison by a magistrate, or some lawful authority, so he too would walk away, being released and discharged by God. For the whole life of a philosopher is, as the same philosopher says, a meditation on death.
+Note - can probably skip reading most of this section regarding, but probably do want to cover that God "forbids our departure hence without his leave."
+
+But these reflections are of long standing, and borrowed from the Greeks. But Cato left this world in such a manner, as if he were delighted that he had found an opportunity of dying; for that God who presides in us, forbids our departure hence without his leave. But when God himself has given us a just cause, as formerly he did to Socrates, and lately to Cato, and often to many others,—in such a case, certainly every man of sense would gladly exchange this darkness, for that light: not that he would forcibly break from the chains that held him, for that would be against the law; but like a man released from prison by a magistrate, or some lawful authority, so he too would walk away, being released and discharged by God. For the whole life of a philosopher is, as the same philosopher says, a meditation on death.
 
 
